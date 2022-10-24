@@ -85,5 +85,9 @@
 	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/selenium-java-4.5.0/selenium-safari-driver-4.5.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/selenium-java-4.5.0/selenium-support-4.5.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/selenium-java-4.5.0/selenium-support-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/testng/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/testng/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/testng/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/testng/testng-7.6.1.jar" sourcepath="C:/Users/franc/OneDrive - University of Strathclyde/Interview/global/TechnicalTest/libs/testng/testng-7.6.1-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
